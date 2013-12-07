@@ -1,10 +1,10 @@
-# iconmonstr icons for DocPad
+# bitcoin icons for DocPad
 ### via Eco functions
 
-![Alt text](https://googledrive.com/host/0B9LVk4xbDIJTSWVYcU5fb0RUVVk/iconmonstrs.png "Some icons available screenshot.")
+![bitcoin and litecoin flat svg icons](https://googledrive.com/host/0B9LVk4xbDIJTSHFONlZmNXdTcTg/This%20is%20a%20Page%20%20%20MDM%20Brazil.png)
 
 Function:
-getIconmonstrBlock(`iconName`,`iconId`,`iconClass`)
+getBitcoinSvgBlock(`iconName`,`iconId`,`iconClass`)
 
 Real world example:
-`<%- @getIconmonstrBlock('globe','fredsId','iconmonstr-head-nav') %>`
+`<%- @getBitcoinSvgBlock('bflat','bIcon','bitcoin-icon') %>`
