@@ -1,6 +1,6 @@
 {
   "name": "docpad-plugin-bitcoinsvg",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Eco bitcoinsvg SVG Funcs for Docpad via getBlock codes.",
   "homepage": "https://github.com/mikeumus/docpad-plugin-bitcoinsvg.git",
   "keywords": [
